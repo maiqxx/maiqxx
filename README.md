@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Jamaica also known as 'Jam' or 'Maics'.</h2>
 <h3 align="center">I'm an IT student who is passionate in learning new technologies.</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr/fullscreen">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiqxx&label=Profile%20views&color=0e75b6&style=flat" alt="maiqxx" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maiqxx" target="blank"><img src="https://img.shields.io/twitter/follow/maiqxx?logo=twitter&style=for-the-badge" alt="maiqxx" /></a> </p>
