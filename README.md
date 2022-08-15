@@ -1,10 +1,6 @@
 <h2 align="center">Hi 👋, I'm Jamaica also known as 'Jam' or 'Maics'.</h2>
 <h3 align="center">I'm an IT student who is passionate in learning new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maiqxx&label=Profile%20views&color=0e75b6&style=flat" alt="maiqxx" /> </p>
-
-<p align="left"> <a href="https://twitter.com/maiqxx" target="blank"><img src="https://img.shields.io/twitter/follow/maiqxx?logo=twitter&style=for-the-badge" alt="maiqxx" /></a> </p>
-
 - 🔭 I’m currently working on **side projects.**
 
 - 🌱 I’m currently learning **Web Designing and Web App Development.**
@@ -38,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maiqxx&show_icons=true&locale=en" alt="maiqxx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiqxx&" alt="maiqxx" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maiqxx&label=Profile%20views&color=0e75b6&style=flat" alt="maiqxx" /> </p>
+
+<p align="left"> <a href="https://twitter.com/maiqxx" target="blank"><img src="https://img.shields.io/twitter/follow/maiqxx?logo=twitter&style=for-the-badge" alt="maiqxx" /></a> </p>
