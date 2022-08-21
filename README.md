@@ -43,6 +43,11 @@
 ### Github Activity: 🔥 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=maiqxx&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
+<!-- Spotify -->
+#### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tkztrwl1k04bg73m3hemkehcb)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiqxx&label=Profile%20views&color=0e75b6&style=flat" alt="maiqxx" /> </p>
 
