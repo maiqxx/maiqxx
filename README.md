@@ -11,6 +11,7 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maiqxx&show_icons=true&locale=en" alt="maiqxx" /></p>  -->
 
 ### Github Activity: 🔥 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiqxx&theme=github_dark) 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=maiqxx&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 <h3 align="left">Languages and Tools:</h3>
