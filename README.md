@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **HTML, CSS, Java DS.**
 
-- ⚡ Fun fact, **I like memes😁**
+- ⚡ Fun fact, **I enjoy memes😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
