@@ -22,13 +22,15 @@
 
 <!-- <h3 align="center">I'm an IT student who is passionate in learning new technologies.</h3> -->
 
-- 👯 I’m looking to collaborate on **Open Source.**
+- 👯 I’m looking to collaborate on **Open Source**.
 
-- 🤝 I’m looking for help with **Java, C#, .Net, and JS.**
+- 🤝 I’m looking for help with **Java, C#, .Net, and JS**.
 
-- 💬 Ask me about **HTML, CSS, Java DS.**
+- 💻 I'm currently working on **online courses and side projects**.
 
-- ⚡ Fun fact, **I like memes😁**
+- 💬 Ask me about **HTML, CSS, Java DS**.
+
+- ⚡ Fun fact, **I enjoy memes😁**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
