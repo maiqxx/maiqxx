@@ -1,13 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Hi!;I'm+Jam+also+known+as+Maics!;)](https://git.io/typing-svg)<hr>
 
 ### GitHub Highlights: 
+<p align="center">
 <a href="https://www.linkedin.com/in/jamaica-cavalida/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiqxx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a><br><br>
+</a></p><br>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/jamaica-cavalida/">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiqxx&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
-</a><br>
+</a></p><br>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maiqxx&show_icons=true&locale=en" alt="maiqxx" /></p>  -->
 
 ### Github Activity: 🔥 
@@ -43,5 +45,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tkztrwl1k04bg73m3hemkehcb)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maiqxx&label=Profile%20views&color=0e75b6&style=flat" alt="maiqxx" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maiqxx&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="maiqxx" /> </p>
 
