@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**.
 
-- 🤝 I’m looking for help with **Java, C#, .Net, and JS**.
+- 🤝 I’m looking for help with **Java, C#, .Net, JS, and Kotlin**.
 
 - 💻 I'm currently working on **online courses and side projects**.
 
