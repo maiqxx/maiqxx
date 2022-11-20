@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Hi!;I'm+Jam+also+known+as+Maiqxx!;)](https://git.io/typing-svg)<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Hey!;Welcome+to+my+profile!;)](https://git.io/typing-svg)<hr>
 
 ### GitHub Highlights: 
 <p align="center">
