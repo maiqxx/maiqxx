@@ -62,7 +62,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**.
 
-- 💻 I'm currently working on **online courses and side projects**.
+- 💻 I'm currently learning **React Native**.
 
 - ⚡ Fun fact, **I enjoy memes😁**.
 
