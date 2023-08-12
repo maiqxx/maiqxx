@@ -1,6 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Hey+there,+thanks+for+stopping+by!;Welcome+to+my+GitHub+corner...;where+I+share+my+coding+escapades!;)](https://git.io/typing-svg)
+### About Me 🫡 
 
-### GitHub Highlights: 
+- 👽 Hi! Jam from the Philippines.
+
+- 👩‍💻 I'm an **IT student** who is passionate in learning new technologies.
+
+- 🤝 I’m looking to collaborate on **Open Source**.
+
+- 💻 I'm currently learning **React Native and UX Design**.
+
+- 👨‍💻 All of my projects are available at my [GitHub repos](https://github.com/maiqxx?tab=repositories).
+
+- ⚡ Fun fact, **I enjoy memes😁**.
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Thanks+for+stopping+by!;Welcome+to+my+GitHub+corner...;where+I+share+my+coding+escapades!;)](https://git.io/typing-svg)
+
+### GitHub Highlights⚡ 
 <p align="center">
 <a href="https://www.linkedin.com/in/jamaica-cavalida/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiqxx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
@@ -12,10 +27,10 @@
 </a></p><br>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maiqxx&show_icons=true&locale=en" alt="maiqxx" /></p>  -->
 
-### Github Activity: 🔥 
+### Github Activity🔥 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiqxx&theme=github_dark) 
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools👩‍💻
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
@@ -57,15 +72,6 @@
 </p>
     
 
-
-<!-- <h3 align="center">I'm an IT student who is passionate in learning new technologies.</h3> -->
-
-- 👯 I’m looking to collaborate on **Open Source**.
-
-- 💻 I'm currently learning **React Native**.
-
-- ⚡ Fun fact, **I enjoy memes😁**.
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maiqxx" height="30" width="40" /></a>
@@ -74,7 +80,7 @@
 </p> -->
 
 <!-- Spotify -->
-#### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
+#### Now Playing <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tkztrwl1k04bg73m3hemkehcb)
 
