@@ -1,6 +1,6 @@
 ### About Me 🫡 
 
-- 👽 Hi! I'm Jam from the Philippines.
+- 👽 Hi! I'm **Jam** from the Philippines.
 
 - 👩‍💻 I'm an **IT student** who is passionate in learning new technologies.
 
