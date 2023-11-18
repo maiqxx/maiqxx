@@ -19,12 +19,12 @@
 
 <table borderStyle="none" alignSelf="center">
     <tr>
-        <td width="20%" alignItems="center">
+        <td width="40%" align="center">
           <a href="https://www.linkedin.com/in/jamaica-cavalida/" >
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiqxx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
           </a> 
         </td>
-        <td width="50%" alignItems="left">
+        <td width="60%" alignItems="left">
           <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
           <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
           <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
