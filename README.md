@@ -56,14 +56,15 @@
 
 
 ### Github Activity🔥 
-<div>
+<div align="center">
     <a href="https://www.linkedin.com/in/jamaica-cavalida/">
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiqxx&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </div>
 <br/>
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiqxx&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiqxx&theme=midnight_purple)
+
 
 
 
