@@ -15,6 +15,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Thanks+for+stopping+by!;Welcome+to+my+GitHub+corner...;where+I+share+my+coding+escapades!;)](https://git.io/typing-svg)
 
+### Github Activity🔥 
+<div>
+    <a href="https://www.linkedin.com/in/jamaica-cavalida/">
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiqxx&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</div>
+<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiqxx&theme=midnight_purple)
+
 ### Languages and Tools👩‍💻
 
 <table borderStyle="none" alignSelf="center">
@@ -55,15 +65,7 @@
 </table>
 
 
-### Github Activity🔥 
-<div align="center">
-    <a href="https://www.linkedin.com/in/jamaica-cavalida/">
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiqxx&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-</div>
-<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiqxx&theme=midnight_purple)
 
 
 
