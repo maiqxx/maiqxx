@@ -16,25 +16,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Thanks+for+stopping+by!;Welcome+to+my+GitHub+corner...;where+I+share+my+coding+escapades!;)](https://git.io/typing-svg)
 
 ### Github Activity🔥 
-<div>
+<div align="center">
     <a href="https://www.linkedin.com/in/jamaica-cavalida/">
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiqxx&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=maiqxx&theme=violet-punch&hide_border=true&border_radius=5&card_width=700" alt="GitHub Streak" />
+    </a>
+        <a href="https://www.linkedin.com/in/jamaica-cavalida/">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiqxx&theme=midnight_purple" />
+    </a>
+    <a href="https://www.linkedin.com/in/jamaica-cavalida/">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maiqxx&theme=midnight_purple&utcOffset=8" />
+    </a>
+    <a href="https://www.linkedin.com/in/jamaica-cavalida/">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiqxx&theme=midnight_purple" />
+    </a>
+
 </div>
-<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiqxx&theme=midnight_purple)
-
-### Languages and Tools👩‍💻
-
-<table borderStyle="none" alignSelf="center">
-    <tr>
-        <td width="40%" align="center">
-          <a href="https://www.linkedin.com/in/jamaica-cavalida/" >
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiqxx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-          </a> 
-        </td>
-        <td width="60%" alignItems="left">
+### Languages & Tools👩‍💻
+<div align="center">
+    <a href="https://www.linkedin.com/in/jamaica-cavalida/" >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiqxx&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&hide=html" />
+    </a> 
+    <a href="https://www.linkedin.com/in/jamaica-cavalida/">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maiqxx&theme=midnight_purple" />
+    </a>
+    <div align="center" alignItem="center">
           <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
           <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
           <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -60,19 +66,8 @@
           <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
           <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
-      </td>
-    </tr>
-</table>
-
-
-
-
-
-
-
-
-
-    
+    </div>
+</div>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -93,9 +88,7 @@
 
 <!-- Spotify -->
 #### Now Playing <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tkztrwl1k04bg73m3hemkehcb)
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiqxx&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="maiqxx" /> </p>
