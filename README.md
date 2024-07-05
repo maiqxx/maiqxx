@@ -1,19 +1,13 @@
 ### About Me 👋
 
-- 👽 Hi! I'm **Jam** from the Philippines.
+- 👽 Hello, World! I'm **Jam** from the Philippines.
 
-- 👩‍💻 I'm an **IT student** who is passionate about learning new technologies.
+- 👩‍💻 A dynamic **Graphic Designer, Web Designer, and Web Developer** who keeps up with the latest tech trends and learning new things in my field.
 
-- 🤝 I’m looking to collaborate on **Open Source**.
-
-- 💻 I'm currently learning **React Native and UX Design**.
-
-- 👩‍💻 All of my random projects are available at my [GitHub repos](https://github.com/maiqxx?tab=repositories).
-
-<!-- - ⚡ Fun fact, **I enjoy memes😁**. -->
+- ⚡ Fun fact: I'm a **meme enthusiast** 😁. Let's connect and share some laughs!
 
 ### Socials🌐
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/838009117099425834) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jam-c) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/maiqxx) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/838009117099425834) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jam-c) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/maiqxx) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&weight=700&pause=100&color=9747FF&random=false&width=435&lines=...)](https://git.io/typing-svg)
 <!-- [[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=...;)](https://git.io/typing-svg)](url) -->
